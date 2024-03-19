@@ -1,0 +1,363 @@
+body{
+    font-family: sans-serif;
+}
+.navbar1{
+     margin: 0px auto 0px auto;
+    background-color: #E21B70;
+    height: 80px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
+.navbar1>li{
+    display: inline-block;
+    margin-right:0px;
+    font-size: 25px;
+    padding-top: 5px;
+    text-align: center;
+    z-index: 100;
+}
+#a{
+ color: #fdfdfd;
+ margin-left: 50px;
+}
+#b{
+    margin-left: 0px;
+}
+#c{
+    margin-left: 500px;
+    width: 200px;
+}
+.signin{
+    background-color: #E21B70;
+    height: 40px;
+    width: 300px;
+
+}#navbar{
+    box-shadow: 2px 5px 8px grey;
+    height: 150px; 
+}
+#navbar>li{
+    display: inline-block;
+    margin-right:0px;
+    margin-top: 50px;
+font-size: 25px;
+padding-top: 5px;
+
+}
+.pandalogo{
+    height: 30px;
+    width:30px;
+    margin-left: 0px;
+}
+.foodpanda{
+    font-family: sans-serif;
+    font-size: xx-large;
+    font: optional;color: #E21B70;
+    margin-left: 5px;
+}
+.login{
+    height: 35px;
+    width: 80px;
+    margin-left: 700px;
+    margin: optional;color: #E21B70;
+    background-color: aliceblue;
+    border-color: #E21B70;
+    border-radius: 8px ;
+    font: optional;color: #E21B70;
+}
+.signin{height: 35px;
+    width: 80px;
+     margin: 5px;
+    background-color: #E21B70;
+    border-radius: 8px;
+    font: optional;color: #fdfdfd;
+
+}
+.baglogo{
+height: 40px;
+width: 40px;
+border-radius: 20px;}
+.pandadiv>li{
+    display: flex;
+    justify-content: flex-end;
+    font-family: sans-serif;
+    font-weight: bolder;
+
+}
+.panda{
+    margin-right: 0px;
+    background-size: cover;
+}
+#veiwbox{
+    height: 50px;
+    width: 600px;
+}
+.index{
+margin-top: -10px;
+z-index: -1;
+height: 400px;
+width: 600px;
+line-height: 25px;
+font-family: sans-serif;
+font-size: large;
+font-weight: normal;
+word-spacing: 5px;
+margin-left: 50px;
+border-width:2px ;
+border-radius:30px ;
+border: optional;box-shadow: 1px 5px 5px grey 
+}
+.getstart{
+    margin-top: 100px;
+    background-color: #E21B70;
+    font: optional;color: #ffffff;
+    border-radius: 10px;
+    border-color: #ffffff;
+    height: 40px;
+    width: 100px;
+}
+.islam{
+    background-image: url(https://images.deliveryhero.io/image/foodpanda/city-tile-pk/Islamabad.jpg?width=720);
+    height: 280px;
+    width: 300px;
+    border-radius: 30px;  
+    background-size: cover;
+    display: inline-block;
+    margin: 6px;
+}
+.karachi{
+    background-image: url(https://images.deliveryhero.io/image/foodpanda/city-tile-pk/Karachi.jpg?width=720);
+    height: 280px;
+    width: 300px;
+    border-radius: 30px;  
+    background-size: cover;
+    display: inline-block;
+    margin: 6px;
+}
+.Lahore{
+    background-image: url(https://images.deliveryhero.io/image/foodpanda/city-tile-pk/Lahore.jpg?width=720);
+    height: 280px;
+    width: 300px;
+    border-radius: 30px;  
+    background-size: cover;
+    display: inline-block;
+    margin: 6px;
+}
+.Faisalabad{background-image: url(https://images.deliveryhero.io/image/foodpanda/city-tile-pk/Faisalabad.jpg?width=720);
+    height: 280px;
+    width: 300px;
+    border-radius: 30px;  
+    background-size: cover;
+    display: inline-block;
+    margin: 6px;
+}
+.Rawalpindi{
+    background-image: url(https://images.deliveryhero.io/image/foodpanda/city-tile-pk/Rawalpindi.jpg?width=720);
+    height: 280px;
+    width: 300px;
+    border-radius: 30px;  
+    background-size: cover;
+    display: inline-block;
+    margin: 6px;
+}
+
+.bahawalpur{
+    background-image: url(https://images.deliveryhero.io/image/fd-pk/city-tile/city-tile-Bahawalpur.jpg?width=720);
+    height: 280px;
+    width: 300px;
+    border-radius: 30px;  
+    background-size: cover;
+    display: inline-block;
+    margin: 6px;
+}
+.deragazi{background-image: url(https://images.deliveryhero.io/image/fd-pk/city-tile/city-tile-DeraGhaziKhan.jpg?width=720);
+    height: 280px;
+    width: 300px;
+    border-radius: 30px;  
+    background-size: cover;
+    display: inline-block;
+    margin: 6px;
+}
+.gujrat{
+    background-image: url(https://images.deliveryhero.io/image/fd-pk/city-tile/city-tile-Gujrat.jpg.jpg?width=720);
+    height: 280px;
+    border-radius: 30px;  
+    background-size: cover;
+    display: inline-block;
+    margin: 6px;
+    width: 300px;
+}
+.hyderabad{
+    background-image: url(https://images.deliveryhero.io/image/foodpanda/city-tile-pk/Hyderabad.jpg?width=720);
+    height: 280px;
+    border-radius: 30px;  
+    background-size: cover;
+    display: inline-block;
+    margin: 6px;
+    width: 300px;
+}
+.jhelum{
+    background-image: url(https://images.deliveryhero.io/image/fd-pk/city-tile/city-tile-Jhelum.jpg?width=720);
+    height: 280px;
+    border-radius: 30px;  
+    background-size: cover;
+    display: inline-block;
+    margin: 6px;
+    width: 300px;
+}
+.kamoke{
+    background-image: url(https://images.deliveryhero.io/image/fd-pk/city-tile/city-tile-Kamoke.jpg?width=720);
+    height: 280px;
+    border-radius: 30px;  
+    background-size: cover;
+    display: inline-block;
+    margin: 6px;
+    width: 300px;
+}
+.larkana{
+    background-image: url(https://images.deliveryhero.io/image/fd-pk/city-tile/city-tile-Larkana.jpg?width=720);
+    height: 280px;
+    border-radius: 30px;  
+    background-size: cover;
+    display: inline-block;
+    margin: 6px;
+    width: 300px;
+}
+.mangla{
+    background-image: url(https://images.deliveryhero.io/image/fd-pk/city-tile/city-tile-Mangla.jpg?width=720);
+    height: 280px;
+    border-radius: 30px;  
+    background-size: cover;
+    display: inline-block;
+    margin: 6px;
+    width: 300px;
+}
+.marden{
+    background-image: url(https://images.deliveryhero.io/image/fd-pk/city-tile/city-tile-Mardan.jpg?width=720);
+    height: 280px;
+    border-radius: 30px;  
+    background-size: cover;
+    display: inline-block;
+    margin: 6px;
+    width: 300px;
+}
+#cities>div>button {
+    margin-top: 225px;
+    margin-left: 15px;
+    height: 40px;
+    width: 150px;
+    font-size: 20px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    cursor: pointer
+}
+.footer{ 
+    background-color: #E21B70;
+    font-family: sans-serif;
+    font-size: 20px;
+    font: optional;color: #ffffff;
+    font-weight: normal;
+    vertical-align: text-top;
+}
+.footer>button{
+    height: 40px;
+    width: 90px;
+    margin-left: 15px;backface-visibility: hidden;
+}
+.mobile{
+    vertical-align:right ;
+}
+.office{
+    overflow: hidden;
+height: 400px;
+}
+.index2{
+    margin-top: -10px;
+    z-index: -1;
+    height: 200px;
+    width: 600px;
+    line-height: 25px;
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: normal;
+    word-spacing: 5px;
+    margin-left: 50px;
+    border-width:2px ;
+    border-radius:30px ;
+    border: optional;box-shadow: 1px 5px 5px grey
+}
+.getstart2{
+    margin-top: 35px;
+    background-color: #E21B70;
+    font: optional;color: #ffffff;
+    border-radius:10px;
+    border-color: #ffffff;
+    height: 40px;
+    width: 100px;
+    margin-left: 20px;
+}
+h1{
+    font-size: large;
+    font-weight: 25px;
+}
+.-lg-9 col-md-9 col-sm-8{    
+text-align: left;
+box-sizing: border-box;
+border: 0;
+font: inherit;
+margin: 0;
+padding: 0;
+vertical-align: baseline;
+width: 100%;}
+.footer-branding>div{
+    display: flex; 
+    display: inline-block;
+    margin-bottom: 0px;
+}
+.footer_branding-social-links{
+    display: inline-block;
+}
+.footer-branding-logos{
+    display: inline-block;
+}
+.othercountries>p>a{
+    font: optional;color: #E21B70;
+    font-size: medium;
+    font-weight: lighter;
+}
+.footer-contact__nav-contact-link>div>a{
+    font: optional;color: #E21B70;
+    font-size:large;
+    text-decoration: none;
+    font-weight: lighter;
+    display: inline-table;
+    margin-left: 0px;
+}
+.footer-contact{
+    display: inline-block;
+}
+.footer-contact__nav-contact-list>li{
+    display: inline-table;
+    background-color: #ffffff; 
+    width: 300px;
+    height: 50px;
+    font-size:x-large ;
+    text-decoration: none;
+margin-left: 0px;
+    
+
+}
+.footer-contact__nav-contact-list{
+    margin-left: 200px;
+}
+.footer-contact__copyright cl-neutral-secondary f-label-medium-font-size fw-label-medium-font-weight lh-label-medium-line-height ff-label-medium-font-family{
+    font: optional;color: #E21B70;
+    font-size: x-large;
+    font-weight: lighter;
+}
+.col-lg-9 col-md-9 col-sm-8>p{
+    font-weight: 10px;
+    font-size: large;
+}
